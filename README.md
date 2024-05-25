@@ -4,3 +4,6 @@
 前台演示http://103.133.178.49:8082/
 
 联系 TG:@Zmajor
+
+# coin2024 新版 非VUE版
+https://github.com/zhouyazun/coin2024_2
